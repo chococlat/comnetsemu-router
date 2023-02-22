@@ -186,6 +186,7 @@ For the demo, the topology in the picture below has been chosen. This way, the n
 	![](media/10.png)
 
 	We can observe that all the routes that are labeled "present" in the RIP-table, are present here, with a metric of 55.
+	
 	We can type `exit` again to return to the `cmd:` prompt.
 	Typing `exit` again will terminate the demonstration
 
