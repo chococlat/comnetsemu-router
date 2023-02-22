@@ -203,3 +203,4 @@ For the demo, the topology in the picture below has been chosen. This way, the n
 - https://mininet.org/
 - https://github.com/mininet/mininet/blob/master/examples/linuxrouter.py
 - https://docker-py.readthedocs.io/en/stable/containers.html#container-objects
+- https://gist.github.com/pklaus/289646
