@@ -1,4 +1,4 @@
-## Implementing a router in the ComNetsEmu environment
+# Implementing a router in the ComNetsEmu environment
 
 Comnetsemu is a lightweight network-emulation environment that brings modern capabilities into the well-known Mininet environment. One of these is the ability to deploy containerized applications on hosts, a feature that is widely used in today's real world scenarios, and it constitues the roots of this router implementation project. 
 
@@ -187,3 +187,17 @@ For the demo, the topology in the picture below has been chosen. This way, the n
 
 	We can type `exit` again to return to the `cmd:` prompt.
 	Typing `exit` again will terminate the demonstration
+
+---
+
+### Main Sources:
+
+- Gitlab/comnetsemu: https://git.comnets.net/public-repo/comnetsemu
+
+- http://csie.nqu.edu.tw/smallko/sdn/mininet_simple_router.htm
+- https://www.granelli-lab.org/researches/relevant-projects/comnetsemu-sdn-nfv-emulator
+- https://www.sciencedirect.com/science/article/pii/B978012820488700027X
+- https://stevelorenz.github.io/comnetsemu/
+- https://mininet.org/
+- https://github.com/mininet/mininet/blob/master/examples/linuxrouter.py
+- https://docker-py.readthedocs.io/en/stable/containers.html#container-objects
